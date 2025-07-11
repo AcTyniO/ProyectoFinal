@@ -157,4 +157,8 @@ Authorization: Bearer <token>
 
 ## 👨‍💻 Autor
 Cesar Rapalini
+<<<<<<< HEAD
 Proyecto desarrollado como entrega final del curso de Node.js en Aula Virtual.
+=======
+Proyecto desarrollado como entrega final del curso de Node.js
+>>>>>>> 121f197d97ea9180be4a679809ae574558c1a4a3
